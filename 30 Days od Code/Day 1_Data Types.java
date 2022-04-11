@@ -27,3 +27,5 @@ public class Solution {
         System.out.println(s+c);
        
         scan.close();
+    }
+}
