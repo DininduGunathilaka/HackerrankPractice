@@ -14,6 +14,6 @@ int main() {
        n=n/10;
         
     }
-    printf("%d",sum);
+    printf("%d",sum);//print statement
     return 0;
 }
